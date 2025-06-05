@@ -13,7 +13,8 @@
       <div class="cover"></div>
       <span class="heart">♥</span>
       <p class="paper" id="mainMessage">
-        Me alegro que una persona como tu haya llegado a mi ,mi lealtad y amor es lo que te puedo ofrecer ,prometo no fallar y quererte harto, que sepas que tus mensajes me alegran cada día y eso me gusta mucho, quería preguntar si serias mi San Valentin?💘
+        Me alegro que una persona como tu haya llegado a mi ,mi lealtad y amor es lo que te puedo ofrecer ,se que puede que no lo haya demostrado bien, 
+        pero es la verdad, con el corazón en la mano quisiera saber si aún lo intentaremos.💘
       </p>
       <div class="letter"></div>
     </div>
